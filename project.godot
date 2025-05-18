@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Thrasher: Hell Ride"
+run/main_scene="uid://d3icgfovg7i48"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
 
