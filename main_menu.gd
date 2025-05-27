@@ -1,11 +1,6 @@
 extends Control
 
 
-
-#THIS IS A COMMENT
-
-
-
 func story_mode_pressed() -> void:
 	pass # Replace with function body.
 	#get_tree().change_scene_to_file(filename-here)
